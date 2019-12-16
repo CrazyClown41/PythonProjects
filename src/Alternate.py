@@ -10,3 +10,5 @@ def loop(num):
             print(1, end = " ")
 
 loop(getNum())
+
+# Not Complete Code
