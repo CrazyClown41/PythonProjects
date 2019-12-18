@@ -1,10 +1,1 @@
 https://www.example.net/brother?branch=bat&approval=bone
-https://example.com/
-https://example.com/
-http://www.example.org/actor/bear
-https://www.example.com/breath?approval=activity&birthday=bait
-http://example.com/
-https://www.example.com/bite/basket?boat=afterthought
-https://www.example.com/
-https://www.example.com/
-http://www.example.com/bee.html#ball
