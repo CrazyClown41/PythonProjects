@@ -1,3 +1,6 @@
+# Program that has the user guess a number between 1 and 25 with one try and tells them if it is higher or lower
+#TODO want to give user a fixed amount of tries to guess the same random number 
+
 import random
 
 def getNum():
