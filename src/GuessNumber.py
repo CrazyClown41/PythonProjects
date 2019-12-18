@@ -16,9 +16,7 @@ def guess(randomNum, num):
         print("You guessed the right number!")
     elif num < randomNum:
         print("Your number is too low. Guess again!")
-        guess(randomNum(),getNum())
     elif num > randomNum:
         print("Your number is too high. Guess again!")
-        guess(randomNum(),getNum())
 
 guess(randomNum(),getNum())
