@@ -1,3 +1,7 @@
-import webbrowser
+import webbrowser as web
+import tkinter as tk
 
-webbrowser.open("https://www.github.com/CrazyClown41")
+
+    
+        
+web.open("https://www.github.com/CrazyClown41")
