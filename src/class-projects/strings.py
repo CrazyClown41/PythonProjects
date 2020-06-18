@@ -1,0 +1,5 @@
+print("Today is a good to learn python")
+print('Yay!')
+print("Python's Strings are easy to use")
+print('We can even include "quotes" in strings')
+print("Hello"+ " World")
